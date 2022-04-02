@@ -27,7 +27,8 @@ An iOS application for finding study partners.
 
 * Login and Sign Up
 * Message
-* Match
+* Profile View and Creation 
+* Homepage to View other Profiles
 
 
 
@@ -38,4 +39,5 @@ An iOS application for finding study partners.
 
 
 ## Wireframes
-***Our design:*** [Figma](https://www.figma.com/file/wp96NYQjJMVjoFEXnPKjMq/Team14?node-id=0%3A1)
+***Our design:*** 
+<img width="882" alt="Screen Shot 2022-04-02 at 2 47 57 PM" src="https://user-images.githubusercontent.com/67254834/161397133-31bc5e37-a3f1-4190-80f4-eaa81bffcb30.png">
