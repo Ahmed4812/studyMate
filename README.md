@@ -43,7 +43,7 @@ An iOS application for finding study partners.
 <img width="882" alt="Screen Shot 2022-04-02 at 2 47 57 PM" src="https://user-images.githubusercontent.com/67254834/161397133-31bc5e37-a3f1-4190-80f4-eaa81bffcb30.png">
 
 ## Schema 
-# User 
+### User 
 
 | Property  | Type | Description |
 | ------------- | ------------- | ------------- |
