@@ -46,5 +46,5 @@ An iOS application for finding study partners.
 
 | Property  | Type | Description |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Description |
+| Content Cell  | Content Cell  | Description 
