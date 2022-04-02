@@ -47,12 +47,13 @@ An iOS application for finding study partners.
 
 | Property  | Type | Description |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Description |
-| Content Cell  | Content Cell  | Description |
-| Content Cell  | Content Cell  | Description |
-| Content Cell  | Content Cell  | Description |
-| Content Cell  | Content Cell  | Description |
-| Content Cell  | Content Cell  | Description |
+| ObjectID  | String  | unique ID for each user profile |
+| Image  | File  | Image that the user uploads for their profile |
+| Biography  | String  | Description of User with additional information |
+| Name  | String  | Name of user |
+| Year  | String  | Class year of user |
+| Major  | String | Major of User |
+
 
 
 
