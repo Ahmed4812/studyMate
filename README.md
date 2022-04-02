@@ -69,4 +69,4 @@ An iOS application for finding study partners.
 
 ### Networking Requests
 
-#### list of network requests by screen
+#### List of network requests by screen
