@@ -53,7 +53,7 @@ An iOS application for finding study partners.
 | Name  | String  | Name of user |
 | Year  | String  | Class year of user |
 | Major  | String | Major of User |
-| Preferences  | String  | User preferences for filter |
+| Preferences  | Boolean  | User preferences for filter |
 
 
 
