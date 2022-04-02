@@ -67,4 +67,6 @@ An iOS application for finding study partners.
 | createdAt | DateTime  | The time the message was sent |
 | MessageString | String  | The message the user has sent |
 
+### Networking Requests
 
+#### list of network requests by screen
