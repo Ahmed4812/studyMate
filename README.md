@@ -69,21 +69,21 @@ An iOS application for finding study partners.
 
 ### Networking Requests
 
-#### List of network requests by screen
-Login Screen
+### List of network requests by screen
+#### Login Screen
 --
 (POST) Create a new user on sign up
 (GET) If username and password match get the user and sign in
-Home Screen
+#### Home Screen
 --
 (GET) Get all users based on the users preference filter {byYear, myMajor, or Any}
 (POST) Add connection to a user when they swipe right
 (DELETE) Remove suggested connection when swipe left
-Message Screen
+#### Message Screen
 --
 (POST) Create a new message
 (GET) Retrieve all previous messages every time view loads
-Profile Screen
+#### Profile Screen
 --
 (PUT) Change the user's name, image, major, bio, etc.
 (GET) Get all current  user info every time view loads
