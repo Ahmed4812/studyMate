@@ -51,12 +51,20 @@ An iOS application for finding study partners.
 | Image  | File  | Image that the user uploads for their profile |
 | Biography  | String  | Description of User with additional information |
 | Name  | String  | Name of user |
-| Year  | String  | Class year of user |
-| Major  | String | Major of User |
+| Year  | Boolean  | Class year of user |
+| Major  | Boolean | Major of User |
+| University | String | University of User |
 | Preferences  | Boolean  | User preferences for filter |
+| Connections  | Pointer to User | After swiping right, they become a connection |
 
 
+### Messaging
+
+| Property  | Type | Description |
+| ------------- | ------------- | ------------- |
+| ObjectID  | String  | unique ID for each user message chat |
+| MessageID  | String  | unique ID for each message from User |
+| createdAt | DateTime  | The time the message was sent |
+| MessageString | String  | The message the user has sent |
 
 
-
-# Messaging
