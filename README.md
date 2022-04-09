@@ -91,3 +91,5 @@ An iOS application for finding study partners.
 --
 * (PUT) Change the user's name, image, major, bio, etc.
 * (GET) Get all current  user info every time view loads
+
+## Build Progress: Profile View and Editing View 
