@@ -95,5 +95,5 @@ An iOS application for finding study partners.
 ## Profile View and Editing View 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://files.slack.com/files-pri/T0J064FCJ-F03AXJZ7Q7N/profilepage.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/sR8Ws3KsHJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
