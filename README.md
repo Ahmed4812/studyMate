@@ -25,7 +25,7 @@ An iOS application for finding study partners.
 
 **Required Must-have Stories**
 
-* Login and Sign Up
+[X] Login and Sign Up
 * Message
 * Profile View and Creation 
 * Homepage to View other Profiles
