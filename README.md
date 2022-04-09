@@ -92,4 +92,8 @@ An iOS application for finding study partners.
 * (PUT) Change the user's name, image, major, bio, etc.
 * (GET) Get all current  user info every time view loads
 
-## Build Progress: Profile View and Editing View 
+## Profile View and Editing View 
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/utB0tj4Udq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
