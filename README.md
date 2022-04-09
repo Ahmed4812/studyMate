@@ -25,10 +25,10 @@ An iOS application for finding study partners.
 
 **Required Must-have Stories**
 
-- [] Login and Sign Up
-- [] Message
+- [ ] Login and Sign Up
+- [ ] Message
 - [X] Profile View and Creation 
-- [] Homepage to View other Profiles
+- [ ] Homepage to View other Profiles
 
 
 
